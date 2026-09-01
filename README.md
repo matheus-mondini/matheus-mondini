@@ -1,6 +1,6 @@
 # 👋 Opa, Bem Vindo ao meu perfil!!
 
-🚀 **Desenvolvedor Full Stack em formação**.
+ --*Desenvolvedor Full Stack em formação*--
 
 - 🎓 Atualmente estudando **Python e Web Development** No **Senai Rio Claro**
 - 🎮​ Jogando nas horas livres
